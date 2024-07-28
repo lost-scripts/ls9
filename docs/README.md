@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>Welcome to Lost Scripts</h1>
-    <a href="../../ls9_script/docs/index.htm">Go to ls9_script Page</a><br>
-    <a href="../../ls9_script_2/docs/index.htm">Go to ls9_script_2 Page</a>
+    <a href="../../ls9_script/index.htm">Go to ls9_script Page</a><br>
+    <a href="../../ls9_script_2/index.htm">Go to ls9_script_2 Page</a>
 </body>
 </html>
