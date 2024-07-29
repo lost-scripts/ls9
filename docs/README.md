@@ -2,13 +2,12 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Lost Scripts Main Page</title>
+    <title>ls_test Page</title>
     <link rel="stylesheet" href="styles.css">
     <script src="script.js" defer></script>
 </head>
 <body>
-    <h1>Welcome to Lost Scripts</h1>
-    <a href="../ls9_script/">Go to ls9_script Page</a><br>
-    <a href="../ls9_script_2/">Go to ls9_script_2 Page</a>
+    <h1>Welcome to ls Page</h1>
+    <a href="../lost-script.github.io/">Back to Main Page</a>
 </body>
 </html>
